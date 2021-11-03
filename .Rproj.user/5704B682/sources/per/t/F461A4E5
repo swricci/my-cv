@@ -1,0 +1,27 @@
+{
+    "id": "F461A4E5",
+    "path": "~/cv/my-cv/to_run.R",
+    "project_path": "to_run.R",
+    "type": "r_source",
+    "hash": "417858433",
+    "contents": "",
+    "dirty": false,
+    "created": 1635953813431.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "21,41",
+        "scrollLine": "3"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1635963528,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1635963528327,
+    "read_only": false,
+    "read_only_alternatives": []
+}

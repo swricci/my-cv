@@ -1,0 +1,26 @@
+{
+    "id": "E54BB1BD",
+    "path": "~/cv/my-cv/cv.rmd",
+    "project_path": "cv.rmd",
+    "type": "r_markdown",
+    "hash": "558919244",
+    "contents": "",
+    "dirty": false,
+    "created": 1635955047448.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "24,119",
+        "scrollLine": "13"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1635962461,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1635962461533,
+    "read_only": false,
+    "read_only_alternatives": []
+}
