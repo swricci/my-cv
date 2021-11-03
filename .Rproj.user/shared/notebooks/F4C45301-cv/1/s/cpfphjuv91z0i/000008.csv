@@ -1,4 +1,0 @@
-"0","CV %<>% print_section('academic_articles')"
-"2","Error: `nm` must be `NULL` or a character vector the same length as `x`
-[90mRun `rlang::last_error()` to see where the error occurred.[39m
-"

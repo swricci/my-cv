@@ -103,19 +103,12 @@ CV %<>% print_section('education')
 ```
 
 
-
 Research Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
 ```{r}
 CV %<>% print_section('research_positions')
 ```
-
-
-<!-- These breaks just force a new page so section doesnt get cut off -->
-<br>
-<br>
-<br>
 
 
 Selected Publications {data-icon=book}
@@ -126,11 +119,9 @@ CV %<>% print_section('academic_articles')
 ```
 
 
-
 ```{r}
 CV %<>% print_links()
 ```
-
 
 
 Selected Presentations {data-icon=chart-line}
@@ -141,18 +132,13 @@ CV %<>% print_section('presentations')
 ```
 
 
-
-```{r}
-CV %<>% print_links()
-```
-
-
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
 ```{r}
 CV %<>% print_section('teaching_positions')
 ```
+
 
 Community Engagement {data-icon=handshake}
 --------------------------------------------------------------------------------
@@ -169,9 +155,8 @@ Selected Press (About)  {data-icon=newspaper}
 CV %<>% print_section('about_me_press')
 ```
 
-
-<br>
-<br>
-
+```{r}
+CV %<>% print_links()
+```
 
 
